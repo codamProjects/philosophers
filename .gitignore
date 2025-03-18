@@ -1,0 +1,8 @@
+*
+
+!philo/
+!philo/*.c
+!philo/*.h
+!.gitignore
+!philo/Makefile
+!README.md
